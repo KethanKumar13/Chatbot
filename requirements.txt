@@ -1,0 +1,7 @@
+langchain==0.2.2
+langchain-community==0.2.2
+beautifulsoup4==4.12.3
+html2text==2024.2.26
+requests==2.31.0
+llama-cpp-python
+langchain-ollama
